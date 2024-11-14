@@ -11,22 +11,6 @@ This project focuses on evaluating and comparing the performane of different cla
 - Manually calculate performance metrics such as **TP, TN, FP, FN, FPR, FNR, TSS, HSS** for each classifier.
 - Provide a comprehensive comparison of the algorithms to determine the best-performing model.
 
-## Project Structure
-
-AI-Classifier-Performance-Benchmark/
-├── data/                     # Dataset files
-├── notebooks/                # Jupyter Notebooks for each part of the project
-│   ├── RandomForest.ipynb
-│   ├── NeuralNetwork.ipynb
-│   └── ComparisonAnalysis.ipynb
-├── src/                      # Python scripts for the algorithms
-│   ├── random_forest.py
-│   ├── neural_network.py
-│   └── cross_validation.py
-├── results/                  # Tables, plots, and analysis
-├── README.md                 # Project overview and documentation
-└── notes.md                  # Personal project notes
-
 ## Installation and Setup
 
 To run the project locally, follow these steps:
